@@ -1,0 +1,10 @@
+osm_geocoder/
+*.osm.pbf
+*.pyc
+*~
+data/close_nodes
+data/close_buildings
+data/close_shops
+data/buildings_area_center
+features/features_all_*
+
